@@ -1,0 +1,8 @@
+# Единые переводы строк для Mac и Windows
+* text=auto
+
+# cmd.exe понимает .bat только с переводами строк Windows
+*.bat text eol=crlf
+
+*.docx binary
+*.png binary

@@ -1,0 +1,16 @@
+# Сборка
+build/
+out/
+CMakeUserPresets.json
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+# macOS
+.DS_Store
+
+# Методические указания преподавателя - не публикуем
+/МОБКС_КР.docx
